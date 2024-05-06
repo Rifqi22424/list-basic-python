@@ -11,3 +11,5 @@ list1 = set(list1)
 list1 = list(list1)
 
 print(list1)
+
+# ['apel', 'anggur', 'nanas', 'mangga', 'jeruk']
